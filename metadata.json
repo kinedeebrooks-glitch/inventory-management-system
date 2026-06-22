@@ -1,0 +1,6 @@
+{
+  "name": "Brooks Business Inventory Management System",
+  "description": "Secure, responsive, full-featured management system for inventory, sales, suppliers, and remote business tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
